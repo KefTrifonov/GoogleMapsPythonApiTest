@@ -1,0 +1,14 @@
+
+------
+Test: "tests/test_google_map_api.py::TestCreateNewPlace::test_create_new_place (call)
+"Time: 2025-07-07 23:08:48.788077
+Requests method: POST
+Requests URL: https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+
+
+------
+Test: "tests/test_google_map_api.py::TestCreateNewPlace::test_create_new_place (call)
+"Time: 2025-07-07 23:08:49.364734
+Requests method: GET
+Requests URL: https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=14a2445627a9ffbc2cd609531452fcdc
+
