@@ -1,3 +1,3 @@
-First project to automation QA test
+First project to automatization API tests
 API GoogleMaps
 Base CRUD tests
